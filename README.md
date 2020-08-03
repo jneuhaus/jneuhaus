@@ -41,7 +41,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Groovy</center></b></span> 
-<img height=65px src="https://twitter.com/ApacheGroovy/photo"> 
+<img height=65px src="https://raw.githubusercontent.com/groovy/artwork/master/medium.png"> 
 </td>
 </tr>
 
