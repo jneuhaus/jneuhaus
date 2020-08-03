@@ -9,7 +9,8 @@
 
 <br/>
 
-<table align="center">
+<div align="center">
+<table>
 <tbody>
   
 <tr>
@@ -71,6 +72,7 @@
 
 </tbody>
 </table>
+</div>
 
 <!--
 **jneuhaus/jneuhaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
