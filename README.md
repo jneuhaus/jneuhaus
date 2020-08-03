@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/josephneuhaus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
   
-## Tech Stacks I'm familiar with...
+## I've delivered cost-effective business solutions with the following tech stacks...
 
 <br/>
 
