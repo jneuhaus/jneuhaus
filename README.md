@@ -18,8 +18,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Web Services</center></b></span> 
-<img height=60px src="https://img.icons8.com/cute-clipart/64/000000/services.png"/>
+<span><b><center>REST</center></b></span> 
+<img height=60px src="https://img.icons8.com/nolan/64/api-settings.png"/>
 </td>
 
 <td align="center" width="20%">
