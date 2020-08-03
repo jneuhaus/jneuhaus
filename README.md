@@ -14,70 +14,58 @@
   
 <tr>
 <td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
-<img height=60px src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
+<img height=60px src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" title="Java" alt="Java" />
 </td>
 
 <td align="center" width="20%">
-<span><b><center>REST</center></b></span> 
-<img height=60px src="https://img.icons8.com/nolan/64/api-settings.png"/>
+<img height=60px src="https://img.icons8.com/nolan/64/api-settings.png" title="REST" alt="REST" />
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Groovy</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/groovy/artwork/master/medium.png"> 
+<img height=65px src="https://raw.githubusercontent.com/groovy/artwork/master/medium.png" title="Groovy" alt="Groovy" /> 
 </td>
 
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Grails</center></b></span> 
-<img height=65px src="https://plugins.grails.org/assets/grails_logo.svg"> 
+<img height=65px src="https://plugins.grails.org/assets/grails_logo.svg" title="Grails" alt="Grails" /> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png" title="Git" alt="Git" /> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SpringBoot</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img height=60px src="https://img.icons8.com/color/48/000000/spring-logo.png" title="SpringBoot" alt="SpringBoot" />
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<img height=65px src="https://img.icons8.com/bubbles/2x/console.png" title="Bash" alt="Bash"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png" title="C++" alt="C++" /> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Ionic</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/> 
+<img height=65px src="https://img.icons8.com/ios-filled/50/000000/ionic.png" title="Ionic" alt="Ionic" /> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png" title="SQL" alt="SQL" /> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png" title="JavaScript" alt="JavaScript" /> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png" title="HTML 5" alt="HTML 5" /> 
 </td>
 </tr>
 
