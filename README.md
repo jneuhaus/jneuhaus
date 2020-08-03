@@ -9,7 +9,7 @@
 
 <br/>
 
-<table>
+<table align="center">
 <tbody>
   
 <tr>
