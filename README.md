@@ -1,13 +1,14 @@
 <h1 align="center"> Hi, I'm Joe Neuhaus </h1> 
 
 <p align="center">
-  You can review my experience on LinkedIN...
+  You can review my experience on 
 <a href="https://www.linkedin.com/in/josephneuhaus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
   
-## Tech Stack :computer:
+## Tech Stacks I'm familiar with...
 
-<br>
+<br/>
+
 <table>
 <tbody>
 <tr>
@@ -54,8 +55,6 @@
 <span><b><center>C++</center></b></span> 
 <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
 </td>
-
-
 
 <td align="center" width="20%">
 <span><b><center>Ionic</center></b></span> 
