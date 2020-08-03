@@ -40,8 +40,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+<span><b><center>Groovy</center></b></span> 
+<img height=65px src="https://twitter.com/ApacheGroovy/photo"> 
 </td>
 </tr>
 
