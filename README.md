@@ -11,6 +11,7 @@
 
 <table>
 <tbody>
+  
 <tr>
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
@@ -23,9 +24,10 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SpringBoot</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<span><b><center>Groovy</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/groovy/artwork/master/medium.png"> 
 </td>
+
 </tr>
 
 <tr>
@@ -40,8 +42,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Groovy</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/groovy/artwork/master/medium.png"> 
+<span><b><center>SpringBoot</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 </td>
 </tr>
 
