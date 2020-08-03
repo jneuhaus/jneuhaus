@@ -30,7 +30,7 @@
 
 <tr>
 <td align="center" width="20%">
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/9/93/Grails_logo.png"> 
+<img height=65px src="https://plugins.grails.org/assets/grails_logo.svg"> 
 </td>
 
 <td align="center" width="20%">
