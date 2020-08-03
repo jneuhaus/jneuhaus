@@ -23,15 +23,14 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<span><b><center>SpringBoot</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/9/93/Grails_logo.png"> 
 </td>
 
 <td align="center" width="20%">
